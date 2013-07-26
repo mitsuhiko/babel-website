@@ -1,0 +1,19 @@
+<!doctype html>
+{% block htmlhead %}
+<title>{% block title %}Welcome{% endblock %} | Babel (The Python Internationalization Library)</title>
+<meta charset=utf-8>
+<link rel=stylesheet type=text/css href="/static/style.css">
+{% endblock %}
+<div class=box>
+  <div class=header>
+    <h1><span>Babel</span></h1>
+    <p>The Python Internationalization Library
+  </div>
+  <p class=nav>
+    <a href="/">overview</a> /
+    <a href="/docs/">documentation</a> /
+    <a href="/community/">community</a>
+  {% block body %}{% endblock %}
+  <p class=footer>
+    &copy; Copyright 2013 by <a href=http://lucumr.pocoo.org/>Armin Ronacher</a>
+</div>
