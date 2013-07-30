@@ -17,8 +17,8 @@ support.
 You need an IRC Client to join it. The following clients are widely known and used:
 
 -   `Pidgin <http://pidgin.im/>`_, Windows, Linux, OS X
--   `X-Chat <http://xchat.org/>`_, Linux
--   `mirc <http://mirc.com/>`_, Windows
+-   `X-Chat <http://xchat.org/>`_, Windows, Linux
+-   `mIRC <http://mirc.com/>`_, Windows
 -   `colloquy <http://colloquy.info/>`_, OS X
 
 We also have a bot in the channel that logs the conversations. You can
