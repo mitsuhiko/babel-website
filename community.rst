@@ -14,9 +14,11 @@ Babel is now one of the `Pocoo`_ libraries and uses the ``#pocoo`` channel
 on irc.freenode.net for both development specific questions and user
 support.
 
-You need an IRC Client to join it. The following clients are widely known and used:
+You need an IRC Client to join it. The following clients are widely known
+and used:
 
 -   `Pidgin <http://pidgin.im/>`_, Windows, Linux, OS X
+-   `HexChat <http://hexchat.github.io/>`_, Windows, Linux
 -   `X-Chat <http://xchat.org/>`_, Linux
 -   `mirc <http://mirc.com/>`_, Windows
 -   `colloquy <http://colloquy.info/>`_, OS X
