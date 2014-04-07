@@ -5,4 +5,4 @@ serve:
 	run-rstblog serve
 
 upload:
-	scp -r _build/* pocoo.org:/var/www/babel.pocoo.org
+	scp -r _build/* flow.srv.pocoo.org:/srv/websites/babel.pocoo.org/static/
